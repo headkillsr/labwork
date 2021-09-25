@@ -1,3 +1,5 @@
+//write a program to calculate factorial of a given no. using a function fact.
+//Harsh verma 200111197
 #include<iostream>
 using namespace std;
 
